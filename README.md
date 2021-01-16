@@ -5,7 +5,7 @@ I'm Rudi Rutanen, a software/game developer and a 3rd year student in Tampere Un
 📫 Here are some ways to get in touch with me:
 
 <!--insert badges here!-->
-<img height="32" width="32" src="https://simpleicons.org/icons/microsoftoutlook.svg" />
+<img height="32" width="32" style="color:#0077B5" src="https://simpleicons.org/icons/microsoftoutlook.svg" />
 <img height="32" width="32" src="https://simpleicons.org/icons/linkedin.svg" />
 <!--Outlook && LinkedIn!-->
 
@@ -28,11 +28,7 @@ C# && Unity && Python && Java
 
 ## Other Skills
 <!--insert badges here!-->
-<img height="32" width="32" src="https://simpleicons.org/icons/git.svg" />
-<img height="32" width="32" src="https://simpleicons.org/icons/linux.svg" />
-<img height="32" width="32" src="https://simpleicons.org/icons/html5.svg" />
-<img height="32" width="32" src="https://simpleicons.org/icons/css3.svg" />
-<img height="32" width="32" src="https://simpleicons.org/icons/mysql.svg" />
+<img align="left" alt="Git" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> <img align="left" alt="Linux" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" /> <img align="left" alt="HTML5" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> <img align="left" alt="CSS3" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> <img align="left" alt="MySQL" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
 <!--Git && Linux && Cloud Computing && HTML && CSS && MySQL!-->
 
