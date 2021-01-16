@@ -5,7 +5,9 @@ I'm Rudi Rutanen, a software/game developer and a 3rd year student in Tampere Un
 📫 Here are some ways to get in touch with me:
 
 <!--insert badges here!-->
-Outlook && LinkedIn
+<img height="32" width="32" src="https://simpleicons.org/icons/microsoftoutlook.svg" />
+<img height="32" width="32" src="https://simpleicons.org/icons/linkedin.svg" />
+<!--Outlook && LinkedIn!-->
 
 ## :books: Facts about studies and work:
 1. I'm looking for a trainee position in the software industry.
@@ -26,9 +28,15 @@ C# && Unity && Python && Java
 
 ## Other Skills
 <!--insert badges here!-->
-Git && Linux && Cloud Computing && HTML && CSS && MySQL
+<img height="32" width="32" src="https://simpleicons.org/icons/git.svg" />
+<img height="32" width="32" src="https://simpleicons.org/icons/linux.svg" />
+<img height="32" width="32" src="https://simpleicons.org/icons/html5.svg" />
+<img height="32" width="32" src="https://simpleicons.org/icons/css3.svg" />
+<img height="32" width="32" src="https://simpleicons.org/icons/mysql.svg" />
 
-## Current Extra-Curricular Studies
+<!--Git && Linux && Cloud Computing && HTML && CSS && MySQL!-->
+
+## Current Extracurricular Studies
 
 | Course Name | Course Provider | Completion Estimate |
 | :-------------: | :-------------: | -------------: |
