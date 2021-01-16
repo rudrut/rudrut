@@ -1,6 +1,7 @@
 ## **Welcome!** 👋
 
-I'm Rudi Rutanen, a software/game developer and a 3rd year student in Tampere University of Applied Sciences! I'm specialized in Game Production and looking to expand my skillset.\
+I'm Rudi Rutanen, a software/game developer and a 3rd year student in Tampere University of Applied Sciences! I'm specialized in Game Production and looking to expand my skillset.
+<br>
 
 Click the button below to access my LinkedIn:
 
