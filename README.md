@@ -6,7 +6,7 @@ I'm Rudi Rutanen, a software/game developer and a 3rd year student in Tampere Un
 ## :books: Facts about studies and work:
 1. I'm looking for a trainee position in the software industry.
     - C# is my most used language and I'm looking forward to learn more about .NET
-2. I'll initiate my Thesis in the upcoming March.
+2. I'll initiate my Thesis during this Spring.
     - My topics include virtual reality, game development and heart monitoring
 3. I'll graduate at the latest in December this year.
     - I'll complete most of my remaining courses before Summer 2021
