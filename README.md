@@ -3,10 +3,6 @@
 I'm Rudi Rutanen, a software/game developer and a 3rd year student in Tampere University of Applied Sciences! I'm specialized in Game Production and looking to expand my skillset.
 <br>
 
-Click the button below to access my LinkedIn:
-
-<a href="https://www.linkedin.com/in/rudi-rutanen-b4109b157/"><img height="16" width="16" src="https://www.svgrepo.com/show/158420/linkedin.svg" /></a>
-
 ## :books: Facts about studies and work:
 1. I'm looking for a trainee position in the software industry.
     - C# is my most used language and I'm looking forward to learn more about .NET
