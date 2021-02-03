@@ -5,7 +5,7 @@ I'm Rudi Rutanen, a software/game developer and a 3rd year student in Tampere Un
 
 Click the button below to access my LinkedIn:
 
-<a href="https://www.linkedin.com/in/rudi-rutanen-b4109b157/"><img height="32" width="32" src="https://www.svgrepo.com/show/158420/linkedin.svg" /></a>
+<a href="https://www.linkedin.com/in/rudi-rutanen-b4109b157/"><img height="16" width="16" src="https://www.svgrepo.com/show/158420/linkedin.svg" /></a>
 
 ## :books: Facts about studies and work:
 1. I'm looking for a trainee position in the software industry.
@@ -31,8 +31,6 @@ Click the button below to access my LinkedIn:
 <img align="left" alt="Java" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" /><img align="left" alt="Git" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> <img align="left" alt="Linux" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" /> <img align="left" alt="HTML5" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> <img align="left" alt="CSS3" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> <img align="left" alt="MySQL" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <br>
 
-<!--Git && Linux && Cloud Computing && HTML && CSS && MySQL!-->
-
 ## Current Extracurricular Studies
 
 | Course Name | Course Provider | Completion Estimate |
@@ -44,5 +42,3 @@ Click the button below to access my LinkedIn:
 
 ### Profile Visits
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rudrut.rudrut)
-
-<!--insert calculator here>
