@@ -1,6 +1,6 @@
 ## **Welcome!** 👋
 
-I'm Rudi Rutanen, a software/game developer and a 3rd year student in Tampere University of Applied Sciences! I'm specialized in Game Production and looking to expand my skillset.
+I'm Rudi Rutanen, a software/game developer and a 4th year student in Tampere University of Applied Sciences! I'm specialized in Game Production and looking to expand my skillset.
 <br>
 
 ## :books: Facts about studies and work:
@@ -8,8 +8,8 @@ I'm Rudi Rutanen, a software/game developer and a 3rd year student in Tampere Un
     - C# is my most used language and I'm looking forward to learn more about .NET
 2. I'll initiate my Thesis during this Spring.
     - My topics include virtual reality, game development and heart monitoring
-3. I'll graduate at the latest in December this year.
-    - I'll complete most of my remaining courses before Summer 2021
+3. I've started learning MERN stack recently.
+    - I also completed the first three parts of Full Stack Open web development course.
 ### Other facts:
 - :video_game: I’m currently recapping Game programming in Unity and studying VR development.
 - 🤔 I’m looking for help with understanding .NET infrastructure and Full Stack development.
@@ -31,10 +31,7 @@ I'm Rudi Rutanen, a software/game developer and a 3rd year student in Tampere Un
 
 | Course Name | Course Provider | Completion Estimate |
 | :-------------: | :-------------: | -------------: |
-| [*Building AI*](https://buildingai.elementsofai.com/) | University of Helsinki | Spring 2021 |
-| [*Elements of AI*](https://www.elementsofai.com/) | University of Helsinki | Spring 2021 |
-| [*Software Testing*](https://www.xamk.fi/avoimen-amkn-kurssit/ohjelmistotestaus-5-op/) | XAMK | (Late) Spring 2021 |
-| [*Full Stack Open*](https://fullstackopen.com/) | University of Helsinki | Summer 2021 |
+| [*Full Stack Open*](https://fullstackopen.com/) | University of Helsinki | End of 2021 |
 
 ### Profile Visits
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rudrut.rudrut)
