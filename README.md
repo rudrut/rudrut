@@ -5,8 +5,8 @@ I'm Rudi Rutanen, a software/game developer and a 4th year student in Tampere Un
 
 ## :books: Facts about studies and work:
 1. I'm looking for a trainee position in the software industry.
-    - C# is my most used language and I'm looking forward to learn more about .NET
-2. I'll initiate my Thesis during this Spring.
+    - C# is my most used language but I have worked with Python and Java as well.
+2. I'll complete my Thesis before the end of the year.
     - My topics include virtual reality, game development and heart monitoring
 3. I've started learning MERN stack recently.
     - I also completed the first three parts of Full Stack Open web development course.
