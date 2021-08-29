@@ -13,6 +13,7 @@ I'm Rudi Rutanen, a software/game developer and a 4th year student in Tampere Un
 ### Other facts:
 - :video_game: I’m currently recapping Game programming in Unity and studying VR development.
 - 🤔 I’m looking for help with understanding .NET infrastructure and Full Stack development.
+- 👓 I've also discovered that I enjoy working with data and have some experience with it using Python and its libraries.
 - 😄 Pronouns: He/Him.
 - :coffee: Fun fact: I'm a coffee and video game enthusiast. Also my Swedish is apparently okay.
 - 📫 Seek me out at rudi.rutanen@tuni.fi.
