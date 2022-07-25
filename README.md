@@ -1,19 +1,19 @@
 ## **Welcome!** 👋
 
-I'm Rudi Rutanen, a software/game developer and a 4th year student in Tampere University of Applied Sciences! I'm specialized in Game Production and looking to expand my skillset either in full-stack or back-end development.
+I'm Rudi Rutanen, a recently graduated software/game developer from Tampere University of Applied Sciences! I'm specialized in Game Production and looking to expand my skillset either in full-stack or back-end development.
 <br>
 
 ## :books: Facts about studies and work:
-1. I'm looking primarily for a full-stack developer position in the software industry.
-    - C# is my most used language but I have worked with Python and Java as well. I also have some knowledge of JavaScript and React.
-2. I'll complete my Thesis before summer 2022.
-    - My topics include virtual reality, game development and heart monitoring.
-3. I've started learning MERN stack recently.
-    - I've also completed the first three parts of Full Stack Open web development course. -> https://fullstackopen.com/
+1. I'm looking primarily for a (junior) full-stack developer position in the software industry.
+    - C# is my most used language but I have worked with Python and Java as well. Recently I've used more JavaScript and React.
+2. I've graduated in June 2022.
+    - I completed a large variety of programming courses throughout my studies. As such, I'm open to learning (and re-learning) different technologies.
+3. I started learning MERN stack a year ago.
+    - I've also completed the first three parts of Full Stack Open web development course and published an app in Heroku. -> https://bit.ly/3b19j18
 ### Other facts:
 <!--- :video_game: I’m currently recapping Game programming in Unity and studying VR development.-->
-- 🤔 I’m trying to get my head around .NET infrastructure and Full Stack development.
-- 👓 I've also discovered that I enjoy working with data and have some experience with it using Python and its libraries.
+- 🤔 I’m recapping my studies in Full Stack Development and MERN stack.
+- 👓 I've also discovered that I like working with data and have some experience with it using Python and its libraries.
 - 😄 Pronouns: He/Him.
 - :coffee: Fun fact: I'm a coffee and video game enthusiast. Also my Swedish is apparently okay.
 - 📫 Seek me out at rudi.rutanen@hotmail.com.
